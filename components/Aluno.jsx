@@ -4,7 +4,7 @@ import {Text,View} from 'react-native'
 function Aluno(){
     return (
         <View>
-            <Text style={{color:'red',fontWeight:'bold'}}>
+            <Text style={{fontSize:23,fontWeight:'bold'}}>
                 Thalia Silva
             </Text>
         </View>

@@ -6,8 +6,14 @@ class OlaMundo extends Component{
       //aqui dentro vai ficar o código JSX
       return (
           <View>
-              <Text style={{fontSize:23,fontWeight:'bold'}}>
-                  Ilustradora e designer
+               <Text style={{fontWeight:'bold'}}>
+                  23 anos
+              </Text>
+              <Text style={{fontWeight:'bold'}}>
+                  Santo Estevão
+              </Text>
+              <Text style={{fontWeight:'bold'}}>
+                  Design Digital
               </Text>
           </View>
       )  
